@@ -1,7 +1,7 @@
 Finished learning introductory Pytorch through [this](https://youtu.be/V_xro1bcAuA) course. 
 I'd absolutely recommend this course for anyone with an interest in Machine Learning.
-Through the course I recieved a strong basis in
-- General Machine and Deep Learning concepts:
+I obtained a strong basis in
+- General Machine and Deep Learning concepts
     - The difference between Deep and Machine Learning
     - The difference between Supervised and Unsupervised Learning
     - Why ML/DL is needed, and when not to use it
